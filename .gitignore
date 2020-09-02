@@ -3,7 +3,6 @@ tmp/
 .idea/
 log
 config.ini
-output.json
 
 # Below copied from https://github.com/github/gitignore/blob/master/Python.gitignore
 
